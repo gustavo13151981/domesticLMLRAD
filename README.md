@@ -1,5 +1,5 @@
-# Domestic LRAD device activated by Computer Vision
-Civil LRAD device activated with computer vision
+# LRAD device triggered by Computer Vision
+Civil LRAD device activated with fights
 
 # License 
 MIT license
