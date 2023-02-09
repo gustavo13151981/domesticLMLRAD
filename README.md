@@ -29,5 +29,8 @@ https://studio.edgeimpulse.com/studio/161949
 # Demo
 https://www.youtube.com/watch?v=gKN8qyqo3LU
 
+# Arduino MKR Zero version
+I have also uploaded an Arduino MKR Zero version. It is not triggered by Computer Vision and it has a potentiometer to select which Lrad wav to play.
+
 # Contact
 @RoniBandini
